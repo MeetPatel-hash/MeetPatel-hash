@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MeetPatel-hash
-- 👀 I’m Full Stack PHP Developer.
-- 📫 EMAIL: meetp1687@gmail.com
+- 👀 If you're looking for a versatile and dedicated PHP Fullstack Developer, you've come to the right place!
+- 🌟 Let's connect, collaborate, and create something extraordinary together.
+- 📫 You can reach me via email
 
 <!---
 MeetPatel-hash/MeetPatel-hash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
