@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MeetPatel-hash
 - 👀 I’m Full Stack PHP Developer.
-- 💞️ I’m looking to collaborate on web development
 - 📫 EMAIL: meetp1687@gmail.com
 
 <!---
